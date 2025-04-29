@@ -8,8 +8,8 @@ A Computer Engineering Student
 
 📂 **All of my university and personal projects are available here on GitHub**
 
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-🔗 **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
+📧 **Email:** [yarakhattab16@gmail.com](mailto:yarakhattab16@gmail.com)  
+🔗 **GitHub:** [github.com/yarakhattab](https://github.com/yarakhattab)  
 💼 **LinkedIn:** [linkedin.com/in/YOUR_LINK](https://linkedin.com/in/YOUR_LINK)
 
 ---
@@ -46,15 +46,3 @@ A Computer Engineering Student
 
 ---
 
-## 📈 Contribution Activity  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
-## 📊 GitHub Stats  
-![Yara's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-## 🔝 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
