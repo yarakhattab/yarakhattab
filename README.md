@@ -7,7 +7,8 @@ A Computer Engineering Student
 ---
 
 📂 **All of my university and personal projects are available here on GitHub**
-<a href="https://github.com/yarakhattab" target="_blank">
+
+<a href="https://github.com/yarakhattab" target="_bink">
   <img src="https://img.shields.io/badge/All%20of%20my%20projects%20are%20available%20here-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </a>
 
