@@ -7,6 +7,10 @@ A Computer Engineering Student
 ---
 
 📂 **All of my university and personal projects are available here on GitHub**
+<a href="https://github.com/SajaAsfour" target="_blank">
+  <img src="https://img.shields.io/badge/All%20of%20my%20projects%20are%20available%20here-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</a>
+
 
 📧 **Email:** [yarakhattab16@gmail.com](mailto:yarakhattab16@gmail.com)  
 🔗 **GitHub:** [github.com/yarakhattab](https://github.com/yarakhattab)  
