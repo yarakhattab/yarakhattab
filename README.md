@@ -1,70 +1,60 @@
-<h1 align="center">Hi there 👋 I'm Yara Khattab </h1>
+# Hi 👋, I'm Yara  
+A Computer Engineering Student 
 
-<p align="center">
-  🎓 4th Year Computer Engineering Student at <strong>Birzeit University</strong>  
-  <br>
-  💻 Passionate about Embedded Systems, OS Development, and Real-Time Simulations
-  <br><br>
-  <img src="https://img.shields.io/badge/Coding-Passion-orange?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded%20Systems-Expert-green?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-</p>
+🎓 4th Year Student at **Birzeit University**  
+💡 Interested in **Embedded Systems**, **Networking**, **AI/ML**, **software development** and **digital design**
 
 ---
 
-## 👩‍💻 About Me
+📂 **All of my university and personal projects are available here on GitHub**
 
-Hello! I'm Yara Khattab, a fourth-year Computer Engineering student at Birzeit University.  
-I love building systems that interact closely with hardware, and I’m especially interested in:
-
-- 🧠 **Low-level programming**
-- 🔌 **Embedded systems**
-- 🖥️ **Computer networks**
-- ⚙️ **Operating systems**
-
-I enjoy challenging projects that blend theory with real-world problem solving.  
-Always looking to learn, explore, and build!
+📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+🔗 **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
+💼 **LinkedIn:** [linkedin.com/in/YOUR_LINK](https://linkedin.com/in/YOUR_LINK)
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠 Languages & Tools
 
-| Category                  | Technologies                                                                 |
-|---------------------------|------------------------------------------------------------------------------|
-| **Languages**             | C, C++, Python, Java, Verilog, Assembly, Dart                               |
-| **Web & Mobile**          | HTML, CSS, Flask, Flutter                                                    |
-| **Embedded Systems**      | ESP32, ARM Cortex-M, Arduino, Microcontrollers                              |
-| **Digital Design**        | Verilog, Quartus                                                             |
-| **Networking**            | Packet Tracer, OSPF, VLANs, Subnetting                                      |
-| **OS & Systems**          | Memory Management, Scheduling, Signal Handling                              |
-| **Tools & Platforms**     | Git, VS Code, Docker, Linux, GitHub                                         |
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
 
----
+<br>
 
-## 🚀 Featured Projects
+<div align="left">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</div>
 
-### 🎮 Rope-Pulling Game Simulation  
-> An interactive real-time game using **OpenGL + pipes + process management** in C.  
+<br>
 
-### 🧠 Mini Shell  
-> Created a shell in C with support for **process creation, execution, and command parsing**.  
-
-### 🔐 Encryption Tool  
-> Simple Python app for encrypting/decrypting messages.
-
-### 🌐 Network Packet Visualizer  
-> Simulated basic **routing, OSPF**, and **subnetting** visually in C.
-
----
-
-## 📫 Contact Me
-
-<p align="left">
-  📧 Email: <strong>your.email@example.com</strong>  
-  <br>
-  💼 LinkedIn: <a href="https://linkedin.com/in/your-profile" target="_blank">linkedin.com/in/your-profile</a>  
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</div>
 
 ---
 
-<p align="center"><i>“The best way to predict the future is to invent it.” – Alan Kay</i></p>
+## 📈 Contribution Activity  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
 
+---
+
+## 📊 GitHub Stats  
+![Yara's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔝 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
