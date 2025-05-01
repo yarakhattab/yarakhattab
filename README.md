@@ -15,7 +15,12 @@ A Computer Engineering Student
 
 
 📧 **Email:** [yarakhattab16@gmail.com](mailto:yarakhattab16@gmail.com)  
+
+
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/yarakhattab)
+
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yara-khattab-290369320/)
 
 
