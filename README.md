@@ -14,14 +14,14 @@ A Computer Engineering Student
 
 
 
-📧 **Email:** [yarakhattab16@gmail.com](mailto:yarakhattab16@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-yarakhattab-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yarakhattab)
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/yarakhattab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yara-khattab-290369320/)
 
 
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yarakhattab16@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yara-khattab-290369320/)
 
 
 
