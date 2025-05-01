@@ -16,7 +16,8 @@ A Computer Engineering Student
 
 📧 **Email:** [yarakhattab16@gmail.com](mailto:yarakhattab16@gmail.com)  
 🔗 **GitHub:** [github.com/yarakhattab](https://github.com/yarakhattab)  
-💼 **LinkedIn:** [linkedin.com/in/YaraKhattab](https://linkedin.com/in/YaraKhattab)
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/yara-khattab-290369320/)
+
 
 ---
 
