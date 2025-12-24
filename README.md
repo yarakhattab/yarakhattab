@@ -1,7 +1,7 @@
 # Hi 👋, I'm Yara  
 A Computer Engineering Student 
 
-🎓 4th Year Student at **Birzeit University**  
+🎓 5th Year Student at **Birzeit University**  
 💡 Interested in **Embedded Systems**, **Networking**, **AI/ML**, **software development** and **digital design**
 
 ---
